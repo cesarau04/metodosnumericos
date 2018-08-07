@@ -1,4 +1,4 @@
-""
+"""
 Eliminate Odd Numbers within a List
 Published by Sri in Python
 
@@ -10,11 +10,11 @@ Examples
 [43, 65, 23, 89, 53, 9, 6] ➞ [6]
 
 [718, 991, 449, 644, 380, 440] ➞ [718, 644, 380, 440]
-""
+"""
 def noOdds(lst):
 	return [i for i in lst if i%2 == 0]
-  
-""
+________________________________________________________________________________________________________________________
+"""
 Find the Smallest Number in a List
 Published by Sri in Python
 
@@ -30,12 +30,11 @@ Examples
 [0.4356, 0.8795, 0.5435, -0.9999] ➞ -0.9999
 
 [7, 7, 7] ➞ 7
-""
-
+"""
 def findSmallestNum(lst):
 	return min(lst)
-  
-""
+________________________________________________________________________________________________________________________
+"""
 Is the Number Even or Odd?
 Published by Matt in Python
 
@@ -47,7 +46,7 @@ Examples
 146 ➞ "even"
 
 19 ➞ "odd"
-""
+"""
 
 def isEvenOrOdd(num):
 	answer = "even" if num % 2 == 0 else "odd"
