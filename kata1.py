@@ -49,5 +49,5 @@ Examples
 """
 
 def isEvenOrOdd(num):
-	answer = "even" if num % 2 == 0 else "odd"
+	answer = "even" if num%2 == 0 else "odd"
 	return answer
