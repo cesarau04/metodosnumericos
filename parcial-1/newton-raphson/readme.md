@@ -6,6 +6,8 @@ El método consiste en partir de una estimación inicial de la solución x0, a p
 
 La formula de Newton-Raphson es la siguiente:
 
-$ax$
+![Image of Yaktocat](http://www.sciweavers.org/download/Tex2Img_1542668911.jpg)
 
 El punto inicial mas uno es igual a el pinto inicial menos el punto inicial evaluado en la función entre el punto inicial evaluado en la derivada de la función.
+
+RECUPERADO DE: https://sitio2blog.wordpress.com/2017/02/13/metodo-newton-raphson/
