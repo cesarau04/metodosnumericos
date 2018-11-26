@@ -4,3 +4,5 @@ El método de Runge-Kutta no es sólo un único método, sino una importante fam
 
 Métodos de Runge-Kutta de cuarto orden
 Un miembro de la familia de los métodos Runge-Kutta usado ampliamente es el de cuarto orden. Es usado tanto que a menudo es referenciado como «RK4» o como «el método Runge-Kutta». 
+
+Recuperado de: https://es.wikipedia.org/wiki/M%C3%A9todo_de_Runge-Kutta
